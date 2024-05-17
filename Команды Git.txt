@@ -22,4 +22,4 @@
     git add -A
     git commit -m 'update: new line'
     git push origin имя ветки
-14. 
+14. git pull origin имя ветки - обновляет локальную ветку данными из удаленного репозитория
